@@ -9,7 +9,7 @@ To run the application, open the application's directory on the commandline, and
 $ python3 libsys_startup.py
 
 ```
-Options are entered in form of numbers
+A window prompting you to enter options is displayed, enter options inform of numbers
 
 ## How it works
 
